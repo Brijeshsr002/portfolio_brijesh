@@ -3,4 +3,4 @@ services:
     name: portfolio-brijesh
     env: static
     buildCommand: npm run build
-    staticPublishDir: dist
+    staticPublishPath: ./dist
